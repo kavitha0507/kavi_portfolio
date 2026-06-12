@@ -1,0 +1,8 @@
+{
+  "name": "kavi-portfolio",
+  "version": "1.0.0",
+  "description": "Kavitha Mynala's Portfolio",
+  "scripts": {
+    "build": "exit 0"
+  }
+}
